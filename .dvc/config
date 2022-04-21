@@ -1,0 +1,2 @@
+['remote "newremote"']
+    url = gs://ia-mlops/dvc_21_04
