@@ -1,0 +1,4 @@
+outs:
+- md5: 8899f570b429261e3ad5482fc6b0d7a4
+  size: 71353
+  path: instances_default.json
