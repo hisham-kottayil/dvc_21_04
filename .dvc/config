@@ -1,2 +1,7 @@
+[core]
+    no_scm = True
+    remote = newremote_21_04
 ['remote "newremote"']
+    url = gs://ia-mlops/dvc_21_04
+['remote "newremote_21_04"']
     url = gs://ia-mlops/dvc_21_04
